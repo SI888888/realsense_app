@@ -1,0 +1,3 @@
+/Users/apple/AndroidStudioProjects/realsense_app/app/src/main/cpp/librealsense/CMakeFiles/native-lib.dir
+/Users/apple/AndroidStudioProjects/realsense_app/app/src/main/cpp/librealsense/CMakeFiles/edit_cache.dir
+/Users/apple/AndroidStudioProjects/realsense_app/app/src/main/cpp/librealsense/CMakeFiles/rebuild_cache.dir
